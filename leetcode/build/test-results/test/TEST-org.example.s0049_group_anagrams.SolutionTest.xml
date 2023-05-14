@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.example.s0049_group_anagrams.SolutionTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-05-14T01:02:52" hostname="pop-os" time="0.024">
-  <properties/>
-  <testcase name="groupAnagramsExample1()" classname="org.example.s0049_group_anagrams.SolutionTest" time="0.019"/>
-  <testcase name="groupAnagramsExample2()" classname="org.example.s0049_group_anagrams.SolutionTest" time="0.002"/>
-  <testcase name="groupAnagramsExample3()" classname="org.example.s0049_group_anagrams.SolutionTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
