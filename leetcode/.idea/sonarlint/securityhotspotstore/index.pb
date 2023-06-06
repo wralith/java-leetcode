@@ -17,3 +17,5 @@ j
 :src/main/java/org/example/s0500_keyboard_row/Solution.java,a/b/abdb7cdfc24d59d01ecf8850e3780d87a15b904f
 S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+o
+?src/main/java/org/example/s0020_valid_parantheses/Solution.java,7/8/78ce7510422f3d48fd23b0912d9fdcecf2698fac
